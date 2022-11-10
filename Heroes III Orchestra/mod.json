@@ -1,0 +1,12 @@
+{
+	"name" : "Heroes III Orchestra",
+	"description" : "Orchestral tracks of Heroes III towns and combat, arranged by Heroes Orchestra",
+	"version" : "1.0",
+	"author" : "Heroes Orchestra, /a/non from Heroes General thread",
+	"contact" : "",
+	"modType" : "Music",
+	"changelog" :
+    {
+        "1.0"   : [ "Initial release" ]
+    } 
+}
